@@ -2,6 +2,7 @@
 if($fullname == "Thanhdeptrai"){
     header("Location: welcome.php");
 }
+//test 
 ?>
 <!DOCTYPE html>
 <html>  
