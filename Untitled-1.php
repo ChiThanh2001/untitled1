@@ -20,10 +20,7 @@ if($fullname == "Thanhdeptrai"){
                 <label for="email">Email</label>
                 <input type="text" class="form-control" id="email" placeholder="Enter email" name="email">
             </div>
-            <div class="form-group">
-                <label for="address">Address</label>
-                <input type="text" class="form-control" id="address" placeholder="Enter Address" name="address">
-            </div>
+         
             <button class="btn btn-success">Register</button>
         </form>
     </div>
